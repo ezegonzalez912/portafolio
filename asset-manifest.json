@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portafolio-personal-react/static/css/main.4cd631ba.chunk.css",
+    "main.js": "/portafolio-personal-react/static/js/main.3166f291.chunk.js",
+    "main.js.map": "/portafolio-personal-react/static/js/main.3166f291.chunk.js.map",
+    "runtime-main.js": "/portafolio-personal-react/static/js/runtime-main.f8a95642.js",
+    "runtime-main.js.map": "/portafolio-personal-react/static/js/runtime-main.f8a95642.js.map",
+    "static/js/2.0a9cc234.chunk.js": "/portafolio-personal-react/static/js/2.0a9cc234.chunk.js",
+    "static/js/2.0a9cc234.chunk.js.map": "/portafolio-personal-react/static/js/2.0a9cc234.chunk.js.map",
+    "index.html": "/portafolio-personal-react/index.html",
+    "static/css/main.4cd631ba.chunk.css.map": "/portafolio-personal-react/static/css/main.4cd631ba.chunk.css.map",
+    "static/js/2.0a9cc234.chunk.js.LICENSE.txt": "/portafolio-personal-react/static/js/2.0a9cc234.chunk.js.LICENSE.txt",
+    "static/media/check.9a298a1d.svg": "/portafolio-personal-react/static/media/check.9a298a1d.svg",
+    "static/media/contacto.c4c80f11.svg": "/portafolio-personal-react/static/media/contacto.c4c80f11.svg",
+    "static/media/contactoWhite.02768eec.svg": "/portafolio-personal-react/static/media/contactoWhite.02768eec.svg",
+    "static/media/error.3e95524d.svg": "/portafolio-personal-react/static/media/error.3e95524d.svg",
+    "static/media/flecha.a59f6b0f.svg": "/portafolio-personal-react/static/media/flecha.a59f6b0f.svg",
+    "static/media/github.c6c855e0.svg": "/portafolio-personal-react/static/media/github.c6c855e0.svg",
+    "static/media/inicio.e2c333d8.svg": "/portafolio-personal-react/static/media/inicio.e2c333d8.svg",
+    "static/media/linkedin.1df3ad79.svg": "/portafolio-personal-react/static/media/linkedin.1df3ad79.svg",
+    "static/media/mouse.f0c47d85.png": "/portafolio-personal-react/static/media/mouse.f0c47d85.png",
+    "static/media/proyecto1.638ad25f.png": "/portafolio-personal-react/static/media/proyecto1.638ad25f.png",
+    "static/media/proyecto2.0d71c89f.png": "/portafolio-personal-react/static/media/proyecto2.0d71c89f.png",
+    "static/media/proyecto3.3d4c9de9.png": "/portafolio-personal-react/static/media/proyecto3.3d4c9de9.png",
+    "static/media/proyectos.d9cb12f0.svg": "/portafolio-personal-react/static/media/proyectos.d9cb12f0.svg",
+    "static/media/sobremi.6e8f3989.svg": "/portafolio-personal-react/static/media/sobremi.6e8f3989.svg",
+    "static/media/whatsapp.b6953a0a.svg": "/portafolio-personal-react/static/media/whatsapp.b6953a0a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8a95642.js",
+    "static/js/2.0a9cc234.chunk.js",
+    "static/css/main.4cd631ba.chunk.css",
+    "static/js/main.3166f291.chunk.js"
+  ]
+}
