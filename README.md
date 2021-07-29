@@ -1,11 +1,11 @@
-### Portafolio Personal
+## Portafolio Personal
 
-Un proyecto muy importando debido a que es mi carta de presentacion, por ese motivo me tome mucho tiempo para que el web se vea lo mas agradable posible, primero fue diseñada en figma y luego se paso a codigo. Una simple page simple pero que tiene lo necesario para que me puedas conocer y contactar si lo deseas.
+Un proyecto muy importante debido a que es mi carta de presentacion al mundo, por ese motivo me tome mucho tiempo para que el web se vea lo mas agradable posible, primero fue diseñada en figma y luego se paso a codigo. Una lading page simple pero que tiene lo necesario para que me puedas conocer y contactar si lo deseas.
 
 
-## Installation
+### Installation
 
-$ git clone https://github.com/ezegonzalez912/portafolio
-$ cd ../path/to/the/file
-$ npm install
+$ git clone https://github.com/ezegonzalez912/portafolio <br />
+$ cd ../path/to/the/file <br />
+$ npm install <br />
 $ npm start
