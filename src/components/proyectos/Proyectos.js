@@ -14,7 +14,6 @@ export const Proyectos = () => {
                 <Fade>
                     <ListaProyectos />
                 </Fade>
-
             </div>
         </div>
     )
