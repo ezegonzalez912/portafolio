@@ -16,12 +16,12 @@ export const ListaProyectos = () => {
                     se implementaron diversos paquetes npm, mucha logica de javascript, LocalStorage,
                     entre otras muchas cosas.`}
                     website={'https://fmsvotacion.com'}
-                    repositorio={''}/>
+                    repositorio={'https://github.com/ezegonzalez912/fmsvotacion'}/>
                     <ProyectoItem proyecto={proyecto2}
                     texto={`Mi portafolio personal desarrollado en React JS, 100% resposive, 
                     con animaciones y un diseño atractivo.`}
-                    website={''}
-                    repositorio={''}/>
+                    website={'https://ezegonzalez912.github.io/portafolio/'}
+                    repositorio={'https://github.com/ezegonzalez912/portafolio'}/>
                     <ProyectoItem proyecto={proyecto3}
                     texto={`********`}
                     website={''}
