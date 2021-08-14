@@ -16,7 +16,7 @@ export const ListaProyectos = () => {
                     texto={`Proyecto desarrollado en React Js, una pagina web con diversas funciones,
                     se implementaron diversos paquetes npm, mucha logica de javascript, LocalStorage,
                     entre otras muchas cosas.`}
-                    website={'https://ezegonzalez912.github.io/fmsvotacion/'}
+                    website={''}
                     repositorio={'https://github.com/ezegonzalez912/fmsvotacion'}/>
                     <ProyectoItem proyecto={proyecto2}
                     texto={`Mi portafolio personal desarrollado en React JS, 100% resposive, 
@@ -31,7 +31,7 @@ export const ListaProyectos = () => {
                     <ProyectoItem proyecto={proyecto4}
                     texto={`Una simple carta de presentacion animada,
                     la misma fue creada en las tecnologias basicas, HTML, CSS y JS`}
-                    website={'https://ezegonzalez912.github.io/presentacion/'}
+                    website={''}
                     repositorio={'https://github.com/ezegonzalez912/presentacion'}/>
                 </Slide>
             </div>
