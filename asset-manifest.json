@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portafolio/static/css/main.a149f25f.chunk.css",
-    "main.js": "/portafolio/static/js/main.d8309122.chunk.js",
-    "main.js.map": "/portafolio/static/js/main.d8309122.chunk.js.map",
+    "main.js": "/portafolio/static/js/main.3cdbd591.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.3cdbd591.chunk.js.map",
     "runtime-main.js": "/portafolio/static/js/runtime-main.39a87929.js",
     "runtime-main.js.map": "/portafolio/static/js/runtime-main.39a87929.js.map",
     "static/js/2.0a9cc234.chunk.js": "/portafolio/static/js/2.0a9cc234.chunk.js",
@@ -21,7 +21,8 @@
     "static/media/mouse.f0c47d85.png": "/portafolio/static/media/mouse.f0c47d85.png",
     "static/media/proyecto1.638ad25f.png": "/portafolio/static/media/proyecto1.638ad25f.png",
     "static/media/proyecto2.0d71c89f.png": "/portafolio/static/media/proyecto2.0d71c89f.png",
-    "static/media/proyecto3.3d4c9de9.png": "/portafolio/static/media/proyecto3.3d4c9de9.png",
+    "static/media/proyecto3.d8547b52.png": "/portafolio/static/media/proyecto3.d8547b52.png",
+    "static/media/proyecto4.8acd5a07.png": "/portafolio/static/media/proyecto4.8acd5a07.png",
     "static/media/proyectos.d9cb12f0.svg": "/portafolio/static/media/proyectos.d9cb12f0.svg",
     "static/media/sobremi.6e8f3989.svg": "/portafolio/static/media/sobremi.6e8f3989.svg",
     "static/media/whatsapp.b6953a0a.svg": "/portafolio/static/media/whatsapp.b6953a0a.svg"
@@ -30,6 +31,6 @@
     "static/js/runtime-main.39a87929.js",
     "static/js/2.0a9cc234.chunk.js",
     "static/css/main.a149f25f.chunk.css",
-    "static/js/main.d8309122.chunk.js"
+    "static/js/main.3cdbd591.chunk.js"
   ]
 }
