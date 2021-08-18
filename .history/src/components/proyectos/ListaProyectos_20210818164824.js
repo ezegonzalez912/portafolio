@@ -24,14 +24,13 @@ export const ListaProyectos = () => {
                     website={'https://ezegonzalez912.github.io/portafolio/'}
                     repositorio={'https://github.com/ezegonzalez912/portafolio'}/>
                     <ProyectoItem proyecto={proyecto3}
-                    texto={`un gran proyecto que requirió mucho tiempo de trabajo, 
-                    100% resposive, se implementó LocalStorage, se crearon
-                    custom hooks, entre otras muchas cosas.`}
+                    texto={`Version renovada de mi primer proyecto en React,
+                    en este proyecto ya tenia un alto nivel en esta tecnologia y se puede ver claramente en el repositorio.`}
                     website={'https://fmsvotacion.com'}
                     repositorio={'https://github.com/ezegonzalez912/fmsvotacion2'}/>
                     <ProyectoItem proyecto={proyecto4}
-                    texto={`Una simple carta de presentación animada,
-                    la misma fue creada en las tecnologías básicas, HTML, CSS y JS`}
+                    texto={`Una simple carta de presentacion animada,
+                    la misma fue creada en las tecnologias basicas, HTML, CSS y JS`}
                     website={'https://ezegonzalez912.github.io/presentacion/'}
                     repositorio={'https://github.com/ezegonzalez912/presentacion'}/>
                 </Slide>

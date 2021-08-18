@@ -3,8 +3,8 @@ import React from 'react'
 export const SobreMITitulo3 = () => {
     return (
         <div>
-            <p className='Titulo3'>
-                Soy un estudiante<br/>
+            <p>
+                soy un estudiante<br/>
                 de Programación Informática,<br/>
                 enfocado en el desarrollo front end.<br/>
                 Actualmente manejo las siguientes<br/>

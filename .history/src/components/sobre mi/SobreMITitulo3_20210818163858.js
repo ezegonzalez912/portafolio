@@ -4,7 +4,7 @@ export const SobreMITitulo3 = () => {
     return (
         <div>
             <p className='Titulo3'>
-                Soy un estudiante<br/>
+                soy un estudiante<br/>
                 de Programación Informática,<br/>
                 enfocado en el desarrollo front end.<br/>
                 Actualmente manejo las siguientes<br/>
