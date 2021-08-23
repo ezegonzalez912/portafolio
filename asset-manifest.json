@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portafolio/static/css/main.6f42f1cb.chunk.css",
-    "main.js": "/portafolio/static/js/main.fa965e74.chunk.js",
-    "main.js.map": "/portafolio/static/js/main.fa965e74.chunk.js.map",
+    "main.js": "/portafolio/static/js/main.c4e11e5d.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.c4e11e5d.chunk.js.map",
     "runtime-main.js": "/portafolio/static/js/runtime-main.39a87929.js",
     "runtime-main.js.map": "/portafolio/static/js/runtime-main.39a87929.js.map",
     "static/js/2.0a9cc234.chunk.js": "/portafolio/static/js/2.0a9cc234.chunk.js",
@@ -22,7 +22,7 @@
     "static/media/proyecto1.638ad25f.png": "/portafolio/static/media/proyecto1.638ad25f.png",
     "static/media/proyecto2.0d71c89f.png": "/portafolio/static/media/proyecto2.0d71c89f.png",
     "static/media/proyecto3.d8547b52.png": "/portafolio/static/media/proyecto3.d8547b52.png",
-    "static/media/proyecto4.8acd5a07.png": "/portafolio/static/media/proyecto4.8acd5a07.png",
+    "static/media/proyecto4.d8e08de5.png": "/portafolio/static/media/proyecto4.d8e08de5.png",
     "static/media/proyectos.d9cb12f0.svg": "/portafolio/static/media/proyectos.d9cb12f0.svg",
     "static/media/sobremi.6e8f3989.svg": "/portafolio/static/media/sobremi.6e8f3989.svg",
     "static/media/whatsapp.b6953a0a.svg": "/portafolio/static/media/whatsapp.b6953a0a.svg"
@@ -31,6 +31,6 @@
     "static/js/runtime-main.39a87929.js",
     "static/js/2.0a9cc234.chunk.js",
     "static/css/main.6f42f1cb.chunk.css",
-    "static/js/main.fa965e74.chunk.js"
+    "static/js/main.c4e11e5d.chunk.js"
   ]
 }
