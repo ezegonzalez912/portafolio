@@ -24,16 +24,16 @@ export const ListaProyectos = () => {
                     website={'https://ezegonzalez912.github.io/portafolio/'}
                     repositorio={'https://github.com/ezegonzalez912/portafolio'}/>
                     <ProyectoItem proyecto={proyecto3}
-                    texto={`un gran proyecto que requirió mucho tiempo de trabajo, 
+                    texto={`Un gran proyecto que requirió mucho tiempo de trabajo, 
                     100% resposive, se implementó LocalStorage, se crearon
                     custom hooks, entre otras muchas cosas.`}
                     website={'https://fmsvotacion.com'}
                     repositorio={'https://github.com/ezegonzalez912/fmsvotacion2'}/>
                     <ProyectoItem proyecto={proyecto4}
-                    texto={`Una simple carta de presentación animada,
-                    la misma fue creada en las tecnologías básicas, HTML, CSS y JS`}
-                    website={'https://ezegonzalez912.github.io/presentacion/'}
-                    repositorio={'https://github.com/ezegonzalez912/presentacion'}/>
+                    texto={`MERNTASK, un aplicación donde se enfocó trabajar con context y reducers para manejar el estado global.
+                    Aún falta implementar el lado del servidor, para tener el stack MERN completo.`}
+                    website={'https://ezegonzalez912.github.io/MERNTask/'}
+                    repositorio={'https://github.com/ezegonzalez912/MERNTask'}/>
                 </Slide>
             </div>
             <Slide left>
