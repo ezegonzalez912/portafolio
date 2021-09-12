@@ -8,8 +8,8 @@ import { HashRouter as Router, Route } from "react-router-dom";
 ReactDOM.render(
   <React.Fragment>
     <Router>
-      <Route path="/:name" component={App} />
-      <Route path="/" component={App} />
+      <Route exact path="/:name" component={App} />
+      <Route exact path="/" component={App} />
     </Router>
   </React.Fragment>,
   document.getElementById('root')
