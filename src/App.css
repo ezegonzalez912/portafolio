@@ -234,6 +234,24 @@ button {
     border-radius: 100px;
 }
 
+.title_animated{
+    position: relative;
+    font-size: 13px;
+    animation: saltar .6s infinite alternate;
+    line-height: 20px;
+}
+
+@keyframes saltar {
+    from {
+        top: 0px;
+        font-size: 19px;
+      }
+      to{
+        top: -3px;
+        font-size: 20px;
+      }
+}
+
 /*MOUSE*/
 
 .MouseContainer{
@@ -346,6 +364,17 @@ button {
     border-bottom: 6px solid var(--main-rosa-color);
     backdrop-filter: blur(2px);
     cursor: pointer;
+}
+
+.PytInformacion_Imagenes{
+    display: flex;
+    gap: 5px;
+    padding: 10px;
+}
+
+.PytInformacion img{
+    height: 40px;
+    width: auto;
 }
 
 .PytInformacion_Titulo{
