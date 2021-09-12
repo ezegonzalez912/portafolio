@@ -36,8 +36,8 @@ export const ListaProyectos = () => {
                     <ProyectoItem proyecto={proyecto3}
                     title={["Challenge", "Aerolab"]}
                     tecnologias={proyectos.proyecto3}
-                    website={'https://ezegonzalez912.github.io/challenge-alkemy/'}
-                    repositorio={'https://github.com/ezegonzalez912/challenge-alkemy'}/>
+                    website={'https://ezegonzalez912.github.io/challenge-aerolab/'}
+                    repositorio={'https://github.com/ezegonzalez912/challenge-aerolab'}/>
                     <ProyectoItem proyecto={proyecto4}
                     title={["Challenge", "Alkemy"]}
                     tecnologias={proyectos.proyecto4}
