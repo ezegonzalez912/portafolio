@@ -1,18 +1,18 @@
 import React from 'react'
-import { ListaProyectos } from './ListaProyectos'
-import { ProyectosTitulo } from './ProyectosTitulo'
+import { ListProjects } from './ListProjects'
+import { ProjectTitle } from './ProjectTitle'
 import Slide from 'react-reveal/Slide';
 import Fade from 'react-reveal/Fade';
 
-export const Proyectos = () => {
+export const Projects = () => {
     return (
         <div className='SeccionContainer' id='proyectos'>
             <div className='SubSeccionContainer'>
                 <Slide left duration={1000}>
-                    <ProyectosTitulo />
+                    <ProjectTitle />
                 </Slide>
                 <Fade>
-                    <ListaProyectos />
+                    <ListProjects />
                 </Fade>
             </div>
         </div>

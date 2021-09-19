@@ -1,23 +1,23 @@
 import React from 'react'
-import { Desliza } from './Desliza'
-import { InicioContacto } from './InicioContacto'
-import { InicioTitulo1 } from './InicioTitulo1'
-import { InicioTitulo2 } from './InicioTitulo2'
+import { Mouse } from './Mouse'
+import { HomeContact } from './HomeContact'
+import { HomeTitle } from './HomeTitle'
+import { HomeSubtitle } from './HomeSubtitle'
 import Jump from 'react-reveal/Jump';
 import Slide from 'react-reveal/Slide';
 
-export const Inicio = () => {
+export const Home = () => {
     return (
         <div className='SeccionContainer' id='inicio'>
-            <Desliza />
+            <Mouse />
             <Slide left duration={1000}>
-                <InicioTitulo2 />
+                <HomeSubtitle />
             </Slide>
             <Slide left duration={1200}>
-                <InicioTitulo1 />
+                <HomeTitle />
             </Slide>
             <Jump>
-                <InicioContacto duration={1400}/>
+                <HomeContact duration={1400}/>
             </Jump>
         </div>
     )

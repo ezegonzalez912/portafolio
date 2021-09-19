@@ -4,7 +4,7 @@ import cssIMG from "../img/tecnologias/css.png"
 import tsIMG from "../img/tecnologias/typescript.png"
 import jsIMG from "../img/tecnologias/javascript.png"
 
-export const tecnologias = {
+export const technologies = {
     react: {
         name: "REACT JS",
         img: reactIMG

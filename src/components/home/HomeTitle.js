@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const InicioTitulo1 = () => {
+export const HomeTitle = () => {
     return (
         <div className='TituloMain'>
             <p><span className='ColorRosa'>Hola,</span> soy Eze, <br/>

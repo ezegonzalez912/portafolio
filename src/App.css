@@ -26,6 +26,7 @@ body{
 ::-webkit-scrollbar {
     width: 10px;     /* Tamaño del scroll en vertical */
     height: 10px;    /* Tamaño del scroll en horizontal */
+    z-index: 999;
 }
   
 ::-webkit-scrollbar-thumb {
@@ -33,17 +34,18 @@ body{
     border-radius: 5px;
     border: 1px solid #ffffff0c;
     box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.400);
+    z-index: 999;
 }
   
 ::-webkit-scrollbar-thumb:hover{
     background: #0b2e5c;
+    z-index: 999;
 }
   
 ::-webkit-scrollbar-track {
     background: var(--main-azul-color);
+    z-index: 999;
 }
-
-/*GENERALES*/
 
 input {
     outline: none;
@@ -75,7 +77,7 @@ button {
     align-self: center;
 }
 
-.Icon{
+.icon{
     background-color: var(--main-rosa-color);
     width: 65px;
     height: 65px;
@@ -89,7 +91,7 @@ button {
     transition: 1.2s;
 }
 
-.Icon:hover{
+.icon:hover{
     background-color: var(--secundary-rosa-color);
     bottom: 5px;
 }
@@ -148,7 +150,7 @@ button {
     padding: 200px 0;
     box-sizing: border-box;
     box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.600);
-    z-index: 1500;
+    z-index: 800;
 }
 
 .MenuIcon{
@@ -166,7 +168,7 @@ button {
     position: fixed;
     right: 0;
     top: 0;
-    z-index: 1500;
+    z-index: 800;
 }
 
 .MenuTitulo{
@@ -210,7 +212,7 @@ button {
     width: 600px;
     background-color: var(--secundary-azul-color);
     min-height: 500px;
-    z-index: 1100;
+    z-index: 800;
 }
 
 .MenuVerticalText{
@@ -264,7 +266,7 @@ button {
     align-items: center;
     height: 100%;
     animation: mouse .6s infinite alternate;
-    z-index: 1600;
+    z-index: 800;
 }
 
 @keyframes mouse{
@@ -302,14 +304,14 @@ button {
 
 /*PROYECTOS*/
 
-.ListaProyectos{
+.list-projects{
     margin-top: 40px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
 }
 
-.Proyectos{
+.projects{
     display: grid;
     grid-template-columns: 2fr 2fr;
     grid-auto-rows: auto;
@@ -317,7 +319,7 @@ button {
     width: 100%;
 }
 
-.ProyectoItem{
+.project-item{
     width: 100%;
     height: auto;
     background-color: var(--main-rosa-color);
@@ -330,23 +332,23 @@ button {
     z-index: 800;
 }
 
-.ProyectoItem img{
+.project-item img{
     width: 100%;
 }
 
-.Flecha{
+.arrow{
     width: 45px;
     transform: rotate(-90deg);
     margin: 10px;
 }
 
-.VerMas{
+.view-more{
     margin-left: 50px;
 }
 
 /*hover*/
 
-.ProyectoItem:hover .PytInformacion{
+.project-item:hover .PytInformacion{
     display: flex;
 }
 
@@ -591,10 +593,10 @@ button {
     }
 }
 @media (max-width:1300px){
-    .Proyectos{
+    .projects{
         grid-gap: 25px;
     }
-    .VerMas{
+    .view-more{
         margin-left: 25px;
     }
     .PytInformacion_Titulo{
@@ -631,11 +633,11 @@ button {
     .MouseContainer{
         display: none;
     }
-    .ListaProyectos{
+    .list-projects{
         flex-direction: column;
         align-items: flex-start;
     }
-    .VerMas{
+    .view-more{
         margin-top: 35px;
         margin-left: 0px;
     }
@@ -680,11 +682,11 @@ button {
     .MenuHorizontal{
         display: flex;
     }
-    .Icon{
+    .icon{
         width: 55px;
         height: 55px;
     }
-    .Icon img{
+    .icon img{
         height: 35px;
     }
     .SeccionContainer{
@@ -747,11 +749,11 @@ button {
     .Titulo4{
         font-size: 22px;
     }
-    .Icon{
+    .icon{
         width: 50px;
         height: 50px;
     }
-    .Icon img{
+    .icon img{
         height: 30px;
     }
     .PytInformacion{
@@ -795,13 +797,13 @@ button {
         font-size: 19px;
         
     }
-    .ListaProyectos{
+    .list-projects{
         margin-top: 10px;
     }
-    .Proyectos{
+    .projects{
         grid-template-columns: 2fr;
     }
-    .ProyectoItem{
+    .project-item{
         width: 100%;
         height: auto;
     }
