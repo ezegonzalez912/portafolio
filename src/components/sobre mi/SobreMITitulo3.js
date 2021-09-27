@@ -18,6 +18,8 @@ export const SobreMITitulo3 = () => {
                 </span> JAVASCRIPT <span className='ColorRosa'>•
                 </span> TYPESCRIPT <span className='ColorRosa'>• <br />
                 </span> REACT JS <span className='ColorRosa'>•
+                </span> NEXT JS <span className='ColorRosa'>•
+                </span> FIREBASE <span className='ColorRosa'>•
                 </span> GITHUB
             </p>
         </div>

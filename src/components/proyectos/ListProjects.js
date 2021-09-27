@@ -10,13 +10,13 @@ import { ProjectItem } from './ProjectItem'
 
 export const ListProjects = () => {
 
-    const {react, sass, css, javascript, typescript} = technologies;
+    const {react, sass, css, javascript, typescript, next, firebase} = technologies;
 
     const projects = {
         project1: [react, sass, javascript],
         project2: [react, css, typescript],
         project3: [react, sass, typescript],
-        project4: [react, css, javascript],
+        project4: [next, sass, typescript, firebase],
     }
 
     return (
@@ -46,10 +46,10 @@ export const ListProjects = () => {
                     />
                     <ProjectItem 
                         projectIMG={project4IMG}
-                        title={["Challenge", "Alkemy"]}
+                        title={["Movie", "Next"]}
                         technologies={projects.project4}
-                        website={'https://ezegonzalez912.github.io/challenge-alkemy/'}
-                        repository={'https://github.com/ezegonzalez912/challenge-alkemy'}
+                        website={'https://nextjs-app-hazel.vercel.app/'}
+                        repository={'https://github.com/ezegonzalez912/nextjs-app'}
                     />
                 </Slide>
             </div>
