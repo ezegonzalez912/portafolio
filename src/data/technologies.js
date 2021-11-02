@@ -37,7 +37,7 @@ export const technologies = {
         name: "NODEJS",
         img: nodeJS
     },
-    javascript: {
+    express: {
         name: "EXPRESS",
         img: express
     },

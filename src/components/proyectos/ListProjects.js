@@ -32,10 +32,10 @@ export const ListProjects = () => {
                     />
                     <ProjectItem 
                         projectIMG={project2IMG}
-                        title={["Challenge", "Softvision"]}
+                        title={["Precio", "Justo"]}
                         technologies={projects.project2}
-                        website={'https://ezegonzalez912.github.io/challenge-softvision'}
-                        repository={'https://github.com/ezegonzalez912/challenge-softvision'}
+                        website={'https://ezegonzalez912.github.io/game-meli/#/'}
+                        repository={'https://github.com/ezegonzalez912/game-meli'}
                     />
                     <ProjectItem 
                         projectIMG={project3IMG}
